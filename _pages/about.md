@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="/assets/files/cv.pdf" target="_blank">Download CV (PDF)</a>
+subtitle: <a href="/assets/pdf/cv.pdf" target="_blank">Download CV (PDF)</a>
 
 profile:
   align: right
