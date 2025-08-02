@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: headLL.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p><a href="/assets/files/cv.pdf" target="_blank">Download CV (PDF)</a></p>
     <p></p>
     <p></p>
 
