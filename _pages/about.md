@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: linl43@mcmaster.ca
-subtitle: <a href="/assets/pdf/cv.pdf" target="_blank">Download my CV (PDF)</a>
+subtitle: 
 
 profile:
   align: right
