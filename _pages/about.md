@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink:linl43@mcmaster.ca
+permalink:\
 subtitle: 
 
 profile:
