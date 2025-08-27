@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="/assets/pdf/cv.pdf" target="_blank"> My CV </a>
+subtitle: <a href="/assets/pdf/cv.pdf" target="_blank"> My CV </a> <a href="mailto:lihsin.lin@example.com">lihsin.lin@example.com</a>
 
 profile:
   align: right
