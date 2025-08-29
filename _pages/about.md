@@ -25,10 +25,10 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
+--- 
 [My CV](/assets/pdf/cv.pdf)  
 Email: [linl43@mcmaster.ca](mailto:linl43@mcmaster.ca)
-
-I am a Ph.D. candidate in Economics at McMaster University. My research explores a range of topics with a particular focus on prosocial behavior and social norms. My work has been published in the Journal of Economic Behavior & Organization and Frontiers in Behavioral Neuroscience. My ongoing research employs controlled experimental paradigms to examine the interaction between selection and moral hazard in insurance markets, particularly regarding overutilization and claims behavior.
+<body style="text-align: justify;">    
+<p>I am a Ph.D. candidate in Economics at McMaster University. My research explores a range of topics with a particular focus on prosocial behavior and social norms. My work has been published in the Journal of Economic Behavior & Organization and Frontiers in Behavioral Neuroscience. My ongoing research employs controlled experimental paradigms to examine the interaction between selection and moral hazard in insurance markets, particularly regarding overutilization and claims behavior.</p>
 
 
