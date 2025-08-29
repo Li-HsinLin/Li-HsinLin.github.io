@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="/assets/pdf/cv.pdf" target="_blank"> My CV</a> 
-<a href="mailto:linl43@mcmaster.ca">linl43@mcmaster.ca</a>
-
+subtitle: <a href="/assets/pdf/cv.pdf" target="_blank"> My CV</a> <a href="mailto:linl43@mcmaster.ca">linl43@mcmaster.ca</a>
 
 profile:
   align: right
