@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Li-HsinLin.github.io/sitemap.xml
+Sitemap: https://li-lsinlin.github.io/sitemap.xml
